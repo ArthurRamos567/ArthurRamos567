@@ -22,6 +22,7 @@ Tenho facilidade para resolver problemas de forma criativa e inovadora, além de
 Tenho como objetivo me tornar um grande desenvolvedor, focando nas áreas de Backend e Ciências de Dados.
 
 Ferramentas cujo tenho familiaridade: Golang, HTML, CSS, Javascript, React, Node-js, e Github.
+Atualmente estudano Java.
 
 Habilidades:
 ✔ Pacote Office Avançado
